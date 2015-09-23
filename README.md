@@ -7,6 +7,8 @@ During this class, you will learn:
 - A baseline of information on how GitHub enables collaboration within your work team.
 - How to use the GitHub platform and GitHub desktop applications.
 
+I added my bio!
+
 ## Class Activities
 
 Here are the activities you will complete in this class. If you get stuck or have any questions, please refer to the documents linked here for more information.
